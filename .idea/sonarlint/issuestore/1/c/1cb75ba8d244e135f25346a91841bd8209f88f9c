@@ -1,0 +1,8 @@
+
+Dsquid:S1172&"&Remove these unused method parameters.(èıõõ8‡ÕëÊˆ-
+fsquid:S1192;"HDefine a constant instead of duplicating this literal "INV-401" 3 times.(¸âÜÊ8‘÷ÃÊˆ-
+Zsquid:S2589_"7Remove this expression which always evaluates to "true"(ë ±Ëüÿÿÿÿ8ĞÒÊˆ-
+Lsquid:S1481!")Remove this unused "item" local variable.(ëíÚ·úÿÿÿÿ8ÁáğÇˆ-
+[squid:S1854!"8Remove this useless assignment to local variable "item".(ëíÚ·úÿÿÿÿ8ÁáğÇˆ-
+Ÿsquid:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èıõõ8‡ÕëÊˆ-
+asquid:S1155_">Use isEmpty() to check whether the collection is empty or not.(ë ±Ëüÿÿÿÿ8ĞÒÊˆ-
